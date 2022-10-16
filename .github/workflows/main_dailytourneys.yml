@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'dailytourneys'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC88AF2326574102A5BF353D975E4869 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B781417AD094DC89EAA96BFF704F696 }}
