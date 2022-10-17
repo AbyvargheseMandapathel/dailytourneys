@@ -29,6 +29,10 @@ jobs:
           
       - name: Install asgi
         run: pip install asgiref
+        
+      - name: Upgrade Pip
+        run: pip install --upgrade pip
+        
       
       - name: Install dependencies
         run: pip install -r requirements.txt
