@@ -12,10 +12,10 @@ cryptography==35.0.0
 debugpy==1.2.1
 distlib==0.3.3
 Django==4.1.2
-django-ckeditor @ file:///home/runner/.cache/pypoetry/artifacts/69/c4/24/ace1931f7efb73866ddc041929d69bff57f26b75171fde9695cd778113/django_ckeditor-6.5.1-py3-none-any.whl
-django-debug-toolbar @ file:///home/runner/.cache/pypoetry/artifacts/7c/83/a4/2ec20337df6ed570a86d4b4664cbe637f2fa07d72c0f16c6612233015d/django_debug_toolbar-3.7.0-py3-none-any.whl
+django-ckeditor==6.5.1
+django-debug-toolbar==3.7.0
 django-embed-video==1.4.7
-django-js-asset @ file:///home/runner/.cache/pypoetry/artifacts/40/07/43/f7df8b17128ae2a8e7a65a9d2e1ff005205a770370cb9ac2a8ba4d4b03/django_js_asset-2.0.0-py3-none-any.whl
+django-js-asset==2.0.0
 django-social-share==2.3.0
 django-taggit==3.0.0
 django-utils-six==2.0
@@ -30,7 +30,7 @@ jeepney==0.7.1
 keyring==21.8.0
 lockfile==0.12.2
 msgpack==1.0.2
-numpy @ file:///home/runner/.cache/pypoetry/artifacts/0a/f1/63/4e86e206dd78b5ffa1d0b33299c8275c3e1a2411fac9d63320ce69de5f/numpy-1.22.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+numpy==1.22.2
 packaging==20.9
 parso==0.5.2
 pastel==0.2.1
@@ -49,14 +49,14 @@ pylev==1.4.0
 pyparsing==3.0.5
 python-jsonrpc-server==0.3.2
 python-language-server==0.31.10
-pytz @ file:///home/runner/.cache/pypoetry/artifacts/2f/64/84/b6333ff5a89076f2f48899fb6dc7e562400c812c962713b90b44ac5160/pytz-2022.1-py2.py3-none-any.whl
+pytz==2022.1
 requests==2.26.0
 requests-toolbelt==0.9.1
 rope==0.18.0
 SecretStorage==3.3.1
 shellingham==1.4.0
 six==1.16.0
-sqlparse @ file:///home/runner/.cache/pypoetry/artifacts/5c/57/47/582e6c575570333d1c84c495489bc30ed2c7e0fccaabeaa29650cfc543/sqlparse-0.4.2-py3-none-any.whl
+sqlparse==0.4.3
 toml==0.10.2
 tomlkit==0.7.2
 typing-extensions==3.7.4.3
