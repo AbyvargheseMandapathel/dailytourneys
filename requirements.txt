@@ -11,7 +11,7 @@ crashtest==0.3.1
 cryptography==35.0.0
 debugpy==1.2.1
 distlib==0.3.3
-Django @ file:///home/runner/.cache/pypoetry/artifacts/0a/6e/a7/ad9b81885c41d7edd5f5fd91479a9c6be684b7ad660172f6b1f93c7d42/Django-3.2.13-py3-none-any.whl
+Django==4.1.2
 django-ckeditor @ file:///home/runner/.cache/pypoetry/artifacts/69/c4/24/ace1931f7efb73866ddc041929d69bff57f26b75171fde9695cd778113/django_ckeditor-6.5.1-py3-none-any.whl
 django-debug-toolbar @ file:///home/runner/.cache/pypoetry/artifacts/7c/83/a4/2ec20337df6ed570a86d4b4664cbe637f2fa07d72c0f16c6612233015d/django_debug_toolbar-3.7.0-py3-none-any.whl
 django-embed-video==1.4.7
