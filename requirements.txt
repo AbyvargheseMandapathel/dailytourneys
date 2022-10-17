@@ -1,4 +1,4 @@
-asgiref @ file:///home/runner/.cache/pypoetry/artifacts/44/47/8b/eeb8b3236803e39b50f24aec1dd7dc622a47aedd27d0c37ba347271f9b/asgiref-3.5.1-py3-none-any.whl
+asgiref==3.5.2
 backports.entry-points-selectable==1.1.1
 CacheControl==0.12.10
 cachy==0.3.0
